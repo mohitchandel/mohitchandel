@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZI0FEfR8YcHoC2pKvx/giphy.gif" width="600" height="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mohit-chandel-b0077816a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
