@@ -2,7 +2,6 @@
 
 ## Hi there 👋, I am Mohit
 ### I am Blockchain Developer
-![I am GitHub Readme Generator's creator](https://media4.giphy.com/media/6Jnbt9rItVcqQRl7ae/giphy.gif)
 
 I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is interested in computer programming and blockchain technologies. 
 
