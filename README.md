@@ -9,7 +9,7 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 
 ![Profile views](https://gpvc.arturio.dev/mohitchandel) 
  
- Solarized dark            |  Solarized Ocean
+ STats          |  Stats
 :-------------------------:|:-------------------------:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true)  |  ![GitHub metrics](https://metrics.lecoq.io/mohitchandel) 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=blue-green)  | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel)
