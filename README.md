@@ -10,11 +10,13 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
  
 <div>
 <div style="width: 50%; float: left;">
-    #### My Stats
+
+#### My Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true)
 </div>
 <div style="width: 50%; float: left;">
-        #### Github Metrics
+
+#### Github Metrics
 ![GitHub metrics](https://metrics.lecoq.io/mohitchandel) 
 </div>
 </div>
