@@ -1,4 +1,4 @@
-<div id="header" >
+<div id="header" align="center">
 
 ## Hi there 👋, I am Mohit
 ### I am Blockchain Developer
@@ -9,13 +9,13 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 ![Profile views](https://gpvc.arturio.dev/mohitchandel) 
  
 <div style="width: 100%;">
-<div style="width: 50%; float: left;">
+<div style="width: 50% !important; float: left !important;">
 
 #### My Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true)
  
 </div>
-<div style="width: 50%; float: left;">
+<div style="width: 50% !important; float: left !important;">
 
 #### Github Metrics
 ![GitHub metrics](https://metrics.lecoq.io/mohitchandel) 
