@@ -8,7 +8,7 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 
 ![Profile views](https://gpvc.arturio.dev/mohitchandel) 
  
-<div>
+<div style="width: 100%;">
 <div style="width: 50%; float: left;">
 
 #### My Stats
