@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" >
 
 ## Hi there 👋, I am Mohit
 ### I am Blockchain Developer
