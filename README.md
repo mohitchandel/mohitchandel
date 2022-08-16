@@ -1,4 +1,5 @@
 
+
 <div id="header" align="center">
 
 ## Hi there 👋, I am Mohit
@@ -8,15 +9,23 @@
 I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is interested in computer programming and blockchain technologies. 
 
 ![Profile views](https://gpvc.arturio.dev/mohitchandel)  
-
-#### My Stats
+<div>
+    <div style="width: 50%; float: left;">
+    #### My Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true)
+    
+    </div>
+    <div style="width: 50%; float: left;">
+        #### Github Metrics
+![GitHub metrics](https://metrics.lecoq.io/mohitchandel) 
+    </div>
+</div>
+
 #### Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=blue-green)
 #### My Github Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
-#### Github Metrics
-![GitHub metrics](https://metrics.lecoq.io/mohitchandel)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel) 
 
