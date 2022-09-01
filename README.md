@@ -9,10 +9,6 @@
   
 </p>
 
-
-<br />
-<br />
-
 <br> 🔭 I’m currently working on Solidity, React, and Ethereum
 <br> 👯 I’m looking to collaborate on every cool project
 <br> 🤝 I’m looking for help with almost everything
