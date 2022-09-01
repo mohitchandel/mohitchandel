@@ -1,4 +1,22 @@
 <div align="center">
+  
+  <h1 align="center">Hi 👋, I'm Shantanu</h1>
+<h3 align="center">A passionate Blockchain Developer</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsshantanu&label=Profile%20views&color=0e75b6&style=flat" alt="itsshantanu" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+<br />
+<br />
+
+- 🌱 I’m currently learning **Rust Language**
+
+- 💬 Ask me about **Solidity, JavaScript, React.js, Node.js**
+
+- ⚡ Fun fact **I think I am Funny**
+
+<br />
 
 # 💫 About Me:
 Hi I am Mohit Chandel a blockchain developer from India
