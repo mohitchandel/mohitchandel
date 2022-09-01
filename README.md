@@ -1,5 +1,6 @@
-# 💫 About Me:
 <div align="center">
+
+# 💫 About Me:
 Hi I am Mohit Chandel a blockchain developer from India
 <br>🔭 I’m currently working on Solidity, React, and Ethereum
 <br>👯 I’m looking to collaborate on every cool project
