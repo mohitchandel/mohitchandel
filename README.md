@@ -18,8 +18,8 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsshantanu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshantanu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://metrics.lecoq.io/mohitchandel"/>
 </div>
   
 </div>
