@@ -9,7 +9,7 @@
   
 </p>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
+<img align="right" alt="Coding" width="400" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
 
 <br />
 <br />
@@ -25,8 +25,7 @@
 
 <div align="center">
   
-<h3> </h3>
-
+## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitchandel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-chandel-b0077816a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12174711) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohitchandel55) 
 
 # 💻 Tech Stack:
