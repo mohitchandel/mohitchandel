@@ -1,13 +1,13 @@
 <div align="center">
   
-  <h1 align="center">Hi 👋, I'm Mohit</h1>
+<h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A Blockchain developer from India</h3>
 
 <p align="center"> 
   
-  [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in) 
   
-  </p>
+</p>
 
 <img align="right" alt="Coding" width="300" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
 
@@ -21,14 +21,13 @@
 <br>💬 Ask me about Solidity, React, JS, Blockchain
 <br>⚡ Fun fact "I am a manchester united fan🫶🏻"
 
-<br />
-
-
 </div>
 
 <div align="center">
-
-
+  
+  <br>
+  <br>
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitchandel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-chandel-b0077816a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12174711) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohitchandel55) 
 
