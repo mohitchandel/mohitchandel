@@ -12,9 +12,6 @@ Hi I am Mohit Chandel a blockchain developer from India
 </div>
 
 <div align="center">
-  
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 
 [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in)
 
@@ -23,14 +20,12 @@ Hi I am Mohit Chandel a blockchain developer from India
 
 # 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  
 # 📊 GitHub Stats:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=mohitchandel&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel&theme=dark&hide_border=false"><br/>
-
-
 </div>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![]()<br>
 
@@ -40,7 +35,9 @@ Hi I am Mohit Chandel a blockchain developer from India
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitchandel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+  
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 
 
 ### 😂 Random Dev Meme
