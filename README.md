@@ -1,7 +1,7 @@
 <div align="center">
   
-  <h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h3 align="center">A passionate Blockchain Developer</h3>
+  <h1 align="center">Hi 👋, I'm Mohit</h1>
+<h3 align="center">A Blockchain developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsshantanu&label=Profile%20views&color=0e75b6&style=flat" alt="itsshantanu" /> </p>
 
@@ -10,22 +10,15 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **Rust Language**
-
-- 💬 Ask me about **Solidity, JavaScript, React.js, Node.js**
-
-- ⚡ Fun fact **I think I am Funny**
-
-<br />
-
-# 💫 About Me:
-Hi I am Mohit Chandel a blockchain developer from India
 <br>🔭 I’m currently working on Solidity, React, and Ethereum
 <br>👯 I’m looking to collaborate on every cool project
 <br>🤝 I’m looking for help with almost everything
 <br>🌱 I’m currently learning Rust and GoLang
 <br>💬 Ask me about Solidity, React, JS, Blockchain
 <br>⚡ Fun fact "I am a manchester united fan🫶🏻"
+
+<br />
+
 
 </div>
 
