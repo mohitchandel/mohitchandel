@@ -3,9 +3,13 @@
   <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A Blockchain developer from India</h3>
 
-<p align="center"> [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in) </p>
+<p align="center"> 
+  
+  [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in) 
+  
+  </p>
 
-<img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
+<img align="right" alt="Coding" width="300" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
 
 <br />
 <br />
@@ -45,14 +49,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitchandel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-  
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 <div>
