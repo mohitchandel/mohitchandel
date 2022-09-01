@@ -1,4 +1,5 @@
 # 💫 About Me:
+<div>
 <p align="left">Hi I am Mohit Chandel a blockchain developer from India
 <br>🔭 I’m currently working on Solidity, React, and Ethereum
 <br>👯 I’m looking to collaborate on every cool project
@@ -7,6 +8,10 @@
 <br>💬 Ask me about Solidity, React, JS, Blockchain
 <br>⚡ Fun fact "I am a manchester united fan🫶🏻"
 </p>
+
+### ✍️ Random Dev Quote
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</div>
 
 
 <div align="center">
@@ -35,13 +40,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitchandel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
 ### 😂 Random Dev Meme
-<img align="right" src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 <div>
