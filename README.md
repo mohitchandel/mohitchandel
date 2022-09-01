@@ -21,5 +21,9 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://metrics.lecoq.io/mohitchandel"/>
 </div>
+ <div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=blue-green"/>
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel"/>
+</div>
   
 </div>
