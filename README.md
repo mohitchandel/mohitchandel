@@ -8,12 +8,7 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 
 ![Profile views](https://gpvc.arturio.dev/mohitchandel)
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/mohitchandel)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohit-chandel-b0077816a/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' alt='instagram' height='40'>](https://www.instagram.com/mohitchandel.me/)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://twitter.com/mohitchandel55)  [<img src='https://cdn-icons-png.flaticon.com/512/252/252035.png' alt='website' height='40'>](https://mohitchandel.github.io)  
- 
- Stats          | Stats
-:-------------------------:|:-------------------------:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohitchandel&show_icons=true)  |  ![GitHub metrics](https://metrics.lecoq.io/mohitchandel) 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=blue-green)  | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel)
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/mohitchandel)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohit-chandel-b0077816a/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' alt='instagram' height='40'>](https://www.instagram.com/mohitchandel.me/)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://twitter.com/mohitchandel55)  [<img src='https://cdn-icons-png.flaticon.com/512/252/252035.png' alt='website' height='40'>](https://mohitchandel.github.io)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
 
