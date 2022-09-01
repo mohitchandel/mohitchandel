@@ -2,6 +2,7 @@
 Hi I am Mohit Chandel a blockchain developer from India<br>🔭 I’m currently working on Solidity, React, and Ethereum<br>👯 I’m looking to collaborate on every cool project<br>🤝 I’m looking for help with almost everything<br>🌱 I’m currently learning Rust and GoLang<br>💬 Ask me about Solidity, React, JS, Blockchain<br>⚡ Fun fact "I am a manchester united fan🫶🏻"
 
 <div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -25,4 +26,5 @@ Hi I am Mohit Chandel a blockchain developer from India<br>🔭 I’m currently 
 
 ---
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
+ 
 <div>
