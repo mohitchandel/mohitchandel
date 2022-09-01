@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A Blockchain developer from India</h3>
 
-<p align="center"> 
-  
 [![](https://visitcount.itsvg.in/api?id=mohitchandel&icon=3&color=9)](https://visitcount.itsvg.in) 
-  
-</p>
 
 <br> 🔭 I’m currently working on Solidity, React, and Ethereum
 <br> 👯 I’m looking to collaborate on every cool project
