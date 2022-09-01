@@ -1,16 +1,16 @@
-<div>
-<span>
+<div class="container">
+<div class='text1'>
 
 # 💫 About Me:
 Hi I am Mohit Chandel a blockchain developer from India<br>🔭 I’m currently working on Solidity, React, and Ethereum<br>👯 I’m looking to collaborate on every cool project<br>🤝 I’m looking for help with almost everything<br>🌱 I’m currently learning Rust and GoLang<br>💬 Ask me about Solidity, React, JS, Blockchain<br>⚡ Fun fact "I am a manchester united fan🫶🏻"
 
-</span>
-<span>
+</div>
+<div class='text2'>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-</span>
+</div>
 </div>
 
 <div align="center">
@@ -38,3 +38,19 @@ Hi I am Mohit Chandel a blockchain developer from India<br>🔭 I’m currently 
 ---
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
 <div>
+
+<style>
+.container {
+  display: flex;
+  width: 200px;
+}
+
+.text1 {
+  width: 50%;
+}
+
+.text2 {
+  width: 50%;
+}
+
+</style>
