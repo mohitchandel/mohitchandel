@@ -16,5 +16,10 @@ I'm Mohit Chandel, a certified blockchain developer and tech enthusiast who is i
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=blue-green)  | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=itsshantanu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshantanu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
   
 </div>
