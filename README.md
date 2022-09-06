@@ -35,9 +35,6 @@
 ![](https://metrics.lecoq.io/mohitchande)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohitchandel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 <img align="center" alt="Coding" width="400" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
