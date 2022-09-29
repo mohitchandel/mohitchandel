@@ -22,6 +22,11 @@
   
   
 # 📊 GitHub Stats:
+
+<details>
+    <summary>Click me to view stats</summary>
+
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=mohitchandel&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel&theme=dark&hide_border=false"><br/>
@@ -33,7 +38,14 @@
 ![](https://metrics.lecoq.io/mohitchande)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
 
+<div>
+
+</details>
+
 ### ✍️ Random Dev Quote
+
+<div>
+
 
 <img align="center" alt="Coding" width="400" height="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" >
 
