@@ -4,7 +4,6 @@
 
 <br> 🔭 I’m currently working on Solidity, React, and Ethereum
 <br> 👯 I’m looking to collaborate on every cool project
-<br> 🤝 I’m looking for help with almost everything
 <br> 🌱 I’m currently learning Rust and GoLang
 <br> 💬 Ask me about Solidity, React, JS, Blockchain
 <br> ⚡ Fun fact "I am a manchester united fan🫶🏻"
