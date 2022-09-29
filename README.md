@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 
 <details>
-    <summary>Click me to view stats</summary>
+    <summary>Click To View My Stats</summary>
 
 
 <div>
