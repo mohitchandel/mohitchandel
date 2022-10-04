@@ -26,15 +26,15 @@
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mohitchandel&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel&theme=dark&hide_border=false"><br/>
-</div>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![]()<br>
+<a href="https://github.com/<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangorania&theme=tokyonight" height="192px"/></a>
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitchandel&theme=tokyonight" height="192px"/></a>
 
-![](https://metrics.lecoq.io/mohitchande)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitchandel)  
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel&theme=tokyonight&hide_border=false" height="192px"/></a>
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitchandel&theme=tokyonight&utcOffset=8" height="192px"/></a>/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitchandel&theme=tokyonight" height="192px"/></a>
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitchandel&theme=tokyonight" height="192px"/></a>
+
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchandel&theme=tokyonight&hide_border=false" height="192px"/></a>
+<a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Karan's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitchandel&theme=tokyonight&utcOffset=8" height="192px"/></a> 
 
 <div>
 
