@@ -2,14 +2,8 @@
 
 ![banner](https://media-exp1.licdn.com/dms/image/D4D16AQFcsTahw3CWvA/profile-displaybackgroundimage-shrink_350_1400/0/1665036473679?e=1670457600&v=beta&t=lHF2Nv_UAJh6NiauaAxfcaHHjEhbpueV3nFFaatlD8w)
 
-<h3 align="center">Hi 👋, I'm Mohit</h3>
-<h3 align="center">A Blockchain developer from India</h3>
-
-<br> 🔭 I’m currently working on Solidity, React, and Ethereum
-<br> 👯 I’m looking to collaborate on every cool project
-<br> 🌱 I’m currently learning Rust and GoLang
-<br> 💬 Ask me about Solidity, React, JS, Blockchain
-<br> ⚡ Fun fact "I am a manchester united fan🫶🏻"
+<h3 align="center">Hi 👋, I'm Mohit and I am a Blockchain developer from India</h3>
+<p> I am a tech geek with a passion for computer programming and technologies like Blockchain. Currently I’m currently working on Solidity, React, and Ethereum and I’m looking to collaborate on every cool project<p>
 
 </div>
 
