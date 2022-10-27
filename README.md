@@ -2,7 +2,8 @@
 
 ![banner](https://media-exp1.licdn.com/dms/image/D4D16AQFcsTahw3CWvA/profile-displaybackgroundimage-shrink_350_1400/0/1665036473679?e=1670457600&v=beta&t=lHF2Nv_UAJh6NiauaAxfcaHHjEhbpueV3nFFaatlD8w)
 
-<h3 align="center">Hi 👋, I'm Mohit</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I+am+Mohit+Chandel.;A+blockchain+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3.)](https://git.io/typing-svg)
+  
 <p> I am a tech geek with a passion for computer programming and technologies like Blockchain. Currently I’m currently working on Solidity, React, and Ethereum and I’m looking to collaborate on every cool project<p>
 
 </div>
