@@ -4,6 +4,7 @@
   
 <p> I am a tech geek with a passion for computer programming and technologies like Blockchain. Currently I’m currently working on Solidity, React, and Ethereum and I’m looking to collaborate on every cool project<p>
 
+
 </div>
 
 <div align="center">
