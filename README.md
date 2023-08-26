@@ -22,7 +22,7 @@
   
 # 📊 GitHub Stats:
 
-<details>
+<!-- <details>
     <summary>Click To View My Stats</summary>
 
 
@@ -51,7 +51,7 @@
 
 <div>
 
-</details>
+</details> -->
 
 ### ✍️ Random Dev Quote
 
