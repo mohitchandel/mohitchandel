@@ -20,7 +20,6 @@
 <a href="https://github.com/mohitchandel/github-readme-stats"><img alt="Mohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
   
   
-# 📊 GitHub Stats:
 
 <!-- <details>
     <summary>Click To View My Stats</summary>
