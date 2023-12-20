@@ -1,7 +1,7 @@
 <div align="center">
 
+![Banner](./gt.png)
 
-<img src='./gt.png' />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I+am+Mohit+Chandel.;A+blockchain+developer+from+India.)](https://git.io/typing-svg)
   
