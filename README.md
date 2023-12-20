@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./bnr.png">
+<img src="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I+am+Mohit+Chandel.;A+blockchain+developer+from+India.)](https://git.io/typing-svg)
   
