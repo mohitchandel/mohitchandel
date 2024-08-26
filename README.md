@@ -1,5 +1,8 @@
 <div align="center">
 
+![Alt text](./bnr.png)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD;I+am+Mohit)](https://git.io/typing-svg)
 
   
