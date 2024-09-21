@@ -7,7 +7,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F707D6&duration=1500&pause=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD;I+am+Mohit)](https://git.io/typing-svg)
 
 ### I am a tech geek passionate about programming and technologies like Blockchain and AI.
-</br>
+
 
 </div>
 </br>
