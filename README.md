@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./art.jpg)
+![Banner](./mohit.png)
 <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw5dnFpYjB6b3dxbW9qM2UwcHc1anF1eHh2czBmODlzNDJ6cmtmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" height="100%" style="position:absolute" /> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themccodes) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themccodes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/themccodes) 
 
