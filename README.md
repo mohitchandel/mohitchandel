@@ -8,7 +8,6 @@
 
 ### I am a tech geek passionate about programming and technologies like Blockchain and AI.
 
-
 </div>
 </br>
 
